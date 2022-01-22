@@ -29,9 +29,10 @@ HTML, CSS, Tailwind, Material UI, Bootstrap, ReactJS, NodeJS, Express, Javascrip
  
 ### <p> Some Non-commercial Projects that I've deployed: 
 
-- Financial Expense App - https://moneytor-822f2.web.app/ 
-- Workout Tracker https://trackfit-tundeph.netlify.app/
-- Twitter Clone - https://tundeph-twitter-clone-e7b44.web.app/
+ - <b>ManagePro</b> - Project Management App - https://managepro-67d05.web.app/
+ - <b>Moneytor</b> - Financial Expense App - https://moneytor-822f2.web.app/ 
+ - <b>TrackFit</b> - Workout Tracker - https://trackfit-tundeph.netlify.app/
+ - <b>Twitter Clone</b> - https://tundeph-twitter-clone-e7b44.web.app/
 </p>
 <p><br>
 👁️
