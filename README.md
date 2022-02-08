@@ -49,11 +49,11 @@ I have built whole web applications that serve hundreds of thousands of users fr
 
 🌱 
 ### <p>  Talk about Skilling Up: 
-I’m currently learning TypeScript and hoping to get into Solidity sometimes, maybe!
+I’m currently learning Rwact-testing and hoping to get into Solidity sometimes, maybe!
 </p><br>
 
 <p>
 💬 
-You can ask me questions about React, FrontEnd Development and UI/UX Designs
+You can ask me questions about React, CSS, SASS, FrontEnd Development and UI/UX Designs
 </p>
 
