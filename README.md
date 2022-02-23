@@ -29,9 +29,9 @@ HTML, CSS, Tailwind, Material UI, Bootstrap, ReactJS, NodeJS, Express, Javascrip
  
 ### <p> Some Non-commercial Projects that I've deployed: 
 
- - <b>ManagePro</b> - Project Management App - https://managepro-67d05.web.app/
- - <b>Moneytor</b> - Financial Expense App - https://moneytor-822f2.web.app/ 
- - <b>TrackFit</b> - Workout Tracker - https://trackfit-tundeph.netlify.app/
+ - <b>ManagePro</b> - Project Management App - https://managepro-67d05.web.app/ - To Login - (Username jesse@y.com, Password- jjjjjj)
+ - <b>Moneytor</b> - Financial Expense App - https://moneytor-822f2.web.app/ - To Login - (Username jesse@y.com, Password- jjjjjj)
+ - <b>TrackFit</b> - Workout Tracker - https://trackfit-tundeph.netlify.app/ - To Login - (Username t@t.com, Password- tttttt)
  - <b>Twitter Clone</b> - https://tundeph-twitter-clone-e7b44.web.app/
 </p>
 <p><br>
