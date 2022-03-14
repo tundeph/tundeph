@@ -22,7 +22,7 @@ I'm a Software Engineer (Full Stack Developer with focus on Front End Developmen
 💻
 
 ### <p>  Technologies I use: 
-HTML, CSS, Tailwind, Material UI, Bootstrap, ReactJS, NodeJS, Express, Javascript, Firebase, MySQL, MongoDB, PHP and JQuery. 
+HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap, ReactJS, Typescript, NodeJS, Express, Javascript, Jest, Cypress, Firebase, MySQL, MongoDB, PHP and JQuery. 
 </p>
 <p><br>
 🚀🚀
@@ -49,7 +49,7 @@ I have built whole web applications that serve hundreds of thousands of users fr
 
 🌱 
 ### <p>  Talk about Skilling Up: 
-I’m currently learning Rwact-testing and hoping to get into Solidity sometimes, maybe!
+I’m currently learning React Native and hope to get into Solidity sometimes, maybe!
 </p><br>
 
 <p>
