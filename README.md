@@ -22,7 +22,7 @@ I'm a Senior Software Engineer (Full Stack Developer with focus on Front End Dev
 💻
 
 ### <p>  Technologies I use: 
-HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap, ReactJS, Typescript, NodeJS, Express, Javascript, Jest, Cypress, Firebase, MySQL, MongoDB, PHP and JQuery. 
+HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap, ReactJS, Typescript, Redux, NodeJS, Express, Javascript, Jest, Cypress, Firebase, MySQL, MongoDB, PHP and JQuery. 
 </p>
 <p><br>
 🚀🚀
