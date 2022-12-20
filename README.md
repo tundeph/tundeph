@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 🦸‍♂️ 
 ### <p>  My name is Olatunde. 
-I'm a Software Engineer (Full Stack Developer with focus on Front End Development) with 7+ years’ experience. **Coding** and **Learning** are my super-powers 💪💪
+I'm a Senior Software Engineer (Full Stack Developer with focus on Front End Development) with 7+ years’ experience. 💪💪
 </p><br>
 💻
 
