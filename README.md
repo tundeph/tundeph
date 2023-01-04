@@ -22,7 +22,7 @@ I'm a Senior Software Engineer (Full Stack Developer with focus on Front End Dev
 💻
 
 ### <p>  Technologies I use: 
-HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap, ReactJS, Typescript, Redux, NodeJS, Express, Javascript, Jest, Cypress, Firebase, MySQL, MongoDB, PHP and JQuery. 
+ReactJS, Typescript, Redux Toolkit, NodeJS, Express, Javascript, Jest, Cypress, Firebase, MySQL, MongoDB, PHP, JQuery, HTML, CSS, SASS, styled-components, Tailwind, Material UI and Bootstrap. 
 </p>
 <p><br>
 🚀🚀
@@ -34,11 +34,6 @@ HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap, ReactJS, T
  - <b>TrackFit</b> - Workout Tracker - https://trackfit-tundeph.netlify.app/ - To Login - (Username t@t.com, Password- tttttt)
  - <b>Twitter Clone</b> - https://tundeph-twitter-clone-e7b44.web.app/
 </p>
-<p><br>
-👁️
- 
-### <p>  In my past life: 
-I was a Designer and a good one at that. I can create beautiful designs with Adobe Photoshop, Illustrator, XD and CorelDRAW. 
 </p><br>
 
 🧠 
@@ -49,11 +44,11 @@ I have built whole web applications that serve hundreds of thousands of users fr
 
 🌱 
 ### <p>  Talk about Skilling Up: 
-I’m currently learning React Native and hope to get into Solidity sometimes, maybe!
+Learning React Native and hope to get into Solidity sometimes, maybe!
 </p><br>
 
 <p>
 💬 
-You can ask me questions about React, CSS, SASS, FrontEnd Development and UI/UX Designs
+You can ask me questions about React, Javascript, Redux Toolkit, CSS, SASS, FrontEnd Development and UI/UX Designs
 </p>
 
