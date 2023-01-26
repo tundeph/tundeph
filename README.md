@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ### <p>  My name is Olatunde. 
 I'm a Senior Software Engineer (Full Stack Developer with focus on Front End Development). 💪💪
 </p><br>
+<p>
+<a href="https://www.codementor.io/@olatundephoster?refer=badge"><img src="https://www.codementor.io/m-badges/olatundephoster/im-a-cm-b.svg" alt="Codementor badge"></a>
+</p><br>
 💻
 
 ### <p>  Technologies I use: 
