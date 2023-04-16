@@ -48,6 +48,6 @@ I have built whole web applications that serve hundreds of thousands of users fr
 
 💬
 ### <p>  You can ask me questions about: 
-React, Javascript, Redux Toolkit, CSS, SASS, FrontEnd Development and UI/UX Designs
+React, Javascript, NextJS, Redux Toolkit, CSS, SASS, FrontEnd Development and UI/UX Designs
 </p>
 
