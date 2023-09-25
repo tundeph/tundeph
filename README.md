@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### <p>  My name is Olatunde. 
 I'm a Senior Software Engineer (Full Stack Developer with focus on Front End Development). 💪💪
  <br> 
-I am an excellent communicator, a great team player with good leadership skills. I have experience with agile methodolgies and collaboration tools such as JIRA, BitBucket, Git and Slack.
+I am an excellent communicator, a great team player with good leadership skills. I have experience as a Technical lead and with agile methodolgies and collaboration tools such as JIRA, BitBucket, Git and Slack.
 </p><br>
 
 💻
