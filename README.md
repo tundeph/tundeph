@@ -25,7 +25,7 @@ I am an excellent communicator, a great team player with good leadership skills.
 💻
 
 ### <p>  Technologies I use: 
-ReactJS, Typescript, Redux Toolkit, NodeJS, Express, Javascript, Jest, Cypress, Firebase, MySQL, MongoDB, PHP, JQuery, HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap and design tools (Adobe suite and Figma). 
+ReactJS, Typescript, Redux Toolkit, NodeJS, Express, Javascript, Jest, Cypress, Playwright, Firebase, MySQL, MongoDB, AWS (S3, Athena & Comprehend), OpenAI, PHP, JQuery, HTML, CSS, SASS, styled-components, Tailwind, Material UI, Bootstrap and design tools (Adobe suite and Figma). 
 </p>
 <p><br>
 🚀🚀
