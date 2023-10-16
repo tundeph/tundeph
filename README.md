@@ -42,9 +42,6 @@ ReactJS, Typescript, Redux Toolkit, NodeJS, Express, Javascript, Jest, Cypress, 
 ### <p>  Bragging Rights: 
 I have built whole web applications that serve hundreds of thousands of users from ground-up and I have experience across the whole web development lifecycle from conceptualization to wire-framing, UI design, all the way to front-end and back-end development.
 </p><br>
-<p>
-<a href="https://www.codementor.io/@olatundephoster?refer=badge"><img src="https://www.codementor.io/m-badges/olatundephoster/im-a-cm-b.svg" alt="Codementor badge"></a>
-</p><br>
 
 💬
 ### <p>  You can ask me questions about: 
