@@ -32,7 +32,7 @@ ReactJS, Typescript, Redux Toolkit, NodeJS, Express, Javascript, Jest, Cypress, 
  
 ### <p> Some non-commercial projects that you can see: 
 
-  - <b>Clerify</b> - Financial Reconciliation app using Machine Learning - [https://managepro-67d05.web.app/](https://clerify-6f807.firebaseapp.com/add-business)
+  - <b>Clerify</b> - Financial Reconciliation app using Machine Learning - https://clerify-6f807.firebaseapp.com/
  - <b>ManagePro</b> - Project Management App - https://managepro-67d05.web.app/ - To Login - (Username jesse@y.com, Password- jjjjjj)
  - <b>Moneytor</b> - Financial Expense App - https://moneytor-822f2.web.app/ - To Login - (Username jesse@y.com, Password- jjjjjj)
 
